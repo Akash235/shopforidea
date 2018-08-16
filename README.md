@@ -1,0 +1,2 @@
+# shopforidea
+android test project
